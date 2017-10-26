@@ -5,5 +5,8 @@ public static void main(String args[]){
 system.out.println(" good afternoon ");
 
 system.out.println(" BY Tester");
+
+system.out.println(" BY Master");
+
 }
 }
