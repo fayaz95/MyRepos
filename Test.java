@@ -2,6 +2,6 @@ public class Test{
 
 public static void main(String args[]){
 
-system.out.println(" Hello There ");
+system.out.println(" good afternoon ");
 }
 }
