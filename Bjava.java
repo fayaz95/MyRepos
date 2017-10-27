@@ -1,5 +1,5 @@
-public class B{
-public static main void(String args{}){
+public class Bjava{
+public static main void(String[] args){
 
 System.out.println("Welcome to tester");
 }
