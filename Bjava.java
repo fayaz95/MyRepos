@@ -1,5 +1,5 @@
 public class Bjava{
-public static main void(String[] args){
+public static void main(String[] args){
 
 System.out.println("Welcome to tester");
 }
